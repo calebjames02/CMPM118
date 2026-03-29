@@ -1,0 +1,32 @@
+#+TITLE: CMPM 118 Github Syllabus
+#+AUTHOR: Leilani Gilpin
+#+MACRO: quarter Spring 2026
+
+* CMPM 118 (AIEA) - Collaborative Research Experiences in the AI Explainability and Accountability (AIEA) Lab
+The full syllabus for the course on Google Drive (link TBD).
+
+There are two tracks:
+1.  [Auditor track](auditor-onboarding/) this is for *new
+   undergraduate students* that are interested in joining the AIEA
+   Lab.  To be eligible to join the lab as an *active member* (see
+   below) you must complete the 10 onboarding tasks within a quarter.
+2. [Active track](active-research/) this is for *ongoing undergraduate
+   students* that have (a) taken at least one quarter for CMPM 118
+   prior *and* (b) completed the 10 onboarding tasks for a project
+   within a quarter.  
+** Instructor Information
+** Course Overview
+
+** Projects
+The available projects for {{{quarter}}} are:
+- Robustifying Autonomous Vehicles (AVs)
+- NeuroSymbolic AI (NeSy)
+- Explanatory Educational Tools (XEdu)
+- Self-Explaining Neural Networks (SENNs)
+- Ethical and Responsible Societal Systems
+  - (Could make this into an accronymn like *RAISE*)
+
+You can read more about each one of the projects 
+*** TODO Update the AIEA website about each one of the projects.
+- Maybe this could include the *public* thing that Eriq has? 
+*** TODO Update the syllabus somewhere (management tools). 
