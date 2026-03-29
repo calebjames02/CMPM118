@@ -16,11 +16,9 @@
     - [ ]  Change your nickname to your name
     - [ ]  Introduce yourself and ask for the auditor role on discord
 - [ ]  Sign up for 5 units (this is *not* required for summer students or interns):
-    - [ ]  If you are an **undergraduate,** sign up for CMPM 118 by asking @Leilani Gilpin for a permission code
+    - [ ]  If you are an **undergraduate,** sign up for CMPM 118 by claiming one of the [permission codes](https://www.notion.so/aiea/Credits-and-Courses-2e0c03a14c2c80629160d35afe13adce?source=copy_link#317c03a14c2c80d489a1c376faa56d21) for your quarter
     - [ ]  If you are a graduate student, sign up for a 5 unit independent study, and be sure to fill out the independent study syllabus:
-    
     [Independent Study Guidelines](https://www.notion.so/Independent-Study-Guidelines-2ae3eb5c200242ca8c25292aad2b8082?pvs=21)
-    
 - [ ]  Add yourself to the AIEA Lab website (you can use the information you added from the internal members page):
     - [ ]  Request to join the AIEA github on dicord.
     - [ ]  Download hugo.
@@ -67,7 +65,7 @@
     
     [](https://calendar.google.com/calendar/u/0/r?cid=c_b361af2decd08fa81aee9223163e0e95c14562dd8ffd31afa5dcc692fb98395d@group.calendar.google.com)
     
-- [ ]  Add yourself to the group mailing list if you haven’t been added already https://groups.google.com/a/ucsc.edu/g/aiea-auditors-group/members
+- [ ]  Add yourself to the auditors group mailing list if you haven’t been added already https://groups.google.com/a/ucsc.edu/g/aiea-auditors-group/members
 - [ ]  Make sure you can access the [group google drive:](https://drive.google.com/drive/folders/14KZ_JnDH_bNm5lx2XlGXVn42W1TMObro?usp=drive_link)
     - [ ]  Make an introductory slide for yourself under the **Auditors** section: https://docs.google.com/presentation/d/1EST82USQJk2sLFw-x4eJzWFZGu1I4jWnHw8Dd5pCXZI/edit?usp=sharing
 
